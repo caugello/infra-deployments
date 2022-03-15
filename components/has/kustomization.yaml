@@ -15,7 +15,7 @@ images:
 
 configMapGenerator:
 - literals:
-  - GITHUB_ORG=""
+  - GITHUB_ORG="KartouchIO"
   name: github-config
   behavior: replace
 
